@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="amal.bouiaouina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amal.bouiaouina" height="30" width="40" /></a>
-<a href="amal_bouaouina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amal_bouaouina/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/amal.bouiaouina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amal.bouiaouina" height="30" width="40" /></a>
+<a href="[amal_bouaouina](https://www.instagram.com/amal_bouaouina/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amal_bouaouina/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
